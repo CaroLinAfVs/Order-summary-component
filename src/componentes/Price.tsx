@@ -11,6 +11,7 @@ interface Props {
       <strong>{props.title}</strong>
       <p>${props.price}/Year</p>
     </div>
+    {/* eslint-disable jsx-a11y/anchor-is-valid */}
     <a
       href="#"
       className="underline hover:no-underline hover:text-[#675dd5] text-[#3829e0]"
