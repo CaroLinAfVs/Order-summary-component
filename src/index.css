@@ -4,7 +4,7 @@
 
 
 body {
-  background-image: url(./images/pattern-background-desktop.svg);
+  background-image: url(/public/pattern-background-desktop.svg);
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #e0e8ff;
